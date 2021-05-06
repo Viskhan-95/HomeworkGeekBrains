@@ -6,10 +6,10 @@ namespace DZ_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name");
+            Console.WriteLine("Введите ваше имя:");
             var userName = Console.ReadLine();
 
-            Console.WriteLine($"Hello, {userName}, today {DateTime.Now.ToShortDateString()}.");
+            Console.WriteLine($"Привет, {userName}, сегодня {DateTime.Now.ToShortDateString()}");
         }
     }
 }
