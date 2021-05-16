@@ -1,0 +1,13 @@
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.exe
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.deps.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.runtimeconfig.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.runtimeconfig.dev.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.dll
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\bin\Debug\netcoreapp3.1\DZ-5.3.pdb
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.csprojAssemblyReference.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.AssemblyInfoInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.AssemblyInfo.cs
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.dll
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.pdb
+C:\Users\Висхан\Desktop\homeworkGB\DZ-5\DZ-5.3\obj\Debug\netcoreapp3.1\DZ-5.3.genruntimeconfig.cache
