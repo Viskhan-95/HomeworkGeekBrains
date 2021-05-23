@@ -1,0 +1,13 @@
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.exe
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.deps.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.runtimeconfig.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.runtimeconfig.dev.json
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.dll
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\bin\Release\netcoreapp3.1\DZ-7.pdb
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.csprojAssemblyReference.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.AssemblyInfoInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.AssemblyInfo.cs
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.dll
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.pdb
+C:\Users\Висхан\Desktop\homeworkGB\DZ-7\DZ-7\obj\Release\netcoreapp3.1\DZ-7.genruntimeconfig.cache
