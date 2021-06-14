@@ -1,0 +1,1 @@
+ls C:\Users\Висхан\Desktop\GBStudy1\Введение в C# -p 1
